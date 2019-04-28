@@ -1,7 +1,7 @@
 {
-    "name": "ardeveloppement/flysystem-ovh",
+    "name": "monosolutions/flysystem-ovh",
     "description": "Flysystem Adapter for OVH Openstack Swift Object Storage",
-    "homepage": "https://github.com/ArDeveloppement/flysystem-ovh.git",
+    "homepage": "https://github.com/monosolutions/flysystem-ovh.git",
     "type": "library",
     "license": "MIT",
     "authors": [
