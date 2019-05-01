@@ -1,6 +1,6 @@
 <?php
 
-namespace ArDev\Flysystem\OVH;
+namespace MonoSolutions\Flysystem\OVH;
 
 use OpenCloud\OpenStack;
 use OpenCloud\Common\Exceptions\CredentialError;

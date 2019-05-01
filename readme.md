@@ -4,14 +4,14 @@
 ## Installation
 
 ```bash
-composer require ardeveloppement/flysystem-ovh
+composer require monosolutions/flysystem-ovh
 ```
 
 ## Usage
 ```php
 use League\Flysystem\Filesystem;
-use ArDev\Flysystem\OVH\OVHClient;
-use ArDev\Flysystem\OVH\OVHAdapter;
+use MonoSolutions\Flysystem\OVH\OVHClient;
+use MonoSolutions\Flysystem\OVH\OVHAdapter;
 
 $options = [
    'username'  => ':username',

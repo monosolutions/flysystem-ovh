@@ -10,8 +10,8 @@
             "email": "nuwan@techyah.com"
         },
         {
-            "name": "ArDeveloppement",
-            "email": "contact@ardeveloppement.fr"
+            "name": "MonoSolutions",
+            "email": "dev@monosolutions.com"
         }
     ],
     "require": {
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ArDev\\Flysystem\\OVH\\": "src/"
+            "MonoSolutions\\Flysystem\\OVH\\": "src/"
         }
     },
     "config": {
